@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'programção',
+    'o que é um algoritimo?',
+    'sequễncia finita de açoes executiveis
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Programção',
+    'qual a importancia da programação?',
+    'A programação permite que ideias criativas se materializem,melhorando nossa qualidade'
 )
