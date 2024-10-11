@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'programação',
+    'Qual é a função da programação?',
+    'é o ato da escrita dos códigos entendíveis pelos computadores, permitindo assim que eles realizem as funções pedidas.'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'programação',
+    'Que tipo de linguagem usamos em programação?',
+    'JavaScript, Python, Java, PHP, CSS, C#, C++ e C.'
 )
