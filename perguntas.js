@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'programção',
     'o que é um algoritimo?',
-    'sequễncia finita de açoes executiveis
+    'sequễncia finita de açoes executiveis´
 )
 
 criaCartao(
